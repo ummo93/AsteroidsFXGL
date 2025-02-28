@@ -1,6 +1,6 @@
 ## FXGL using Maven/Gradle
 
-This is a game example of and basic Maven configuration for creating FXGL games on Java 21
+This is a game example and basic Maven configuration for creating FXGL games on Java 21
 
 
 ### Build via Maven
