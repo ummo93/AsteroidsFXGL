@@ -14,7 +14,6 @@ import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
 
 import static com.almasb.fxgl.dsl.FXGL.*;
-import static com.almasb.fxgl.dsl.FXGL.getInput;
 
 public class SpaceEntityFactory implements EntityFactory {
     @Spawns("bullet")
