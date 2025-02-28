@@ -1,0 +1,16 @@
+{
+    "platform": "windows64",
+    "jdk": "target/jlink/image",
+    "executable": "asteroids",
+    "classpath": [
+        "target/Asteroids-1.0.jar"
+    ],
+    "mainclass": "com.github.ummo93.GameApp",
+    "vmargs": [
+        "-Xmx1G"
+    ],
+    "resources": [
+    ],
+    "minimizejre": "hard",
+    "output": "target/asteroids-win"
+}
